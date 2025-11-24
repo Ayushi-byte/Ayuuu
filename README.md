@@ -5,7 +5,7 @@ HairCare Ingredient & Product Recommender
 
 2)Project Overview
 
-This project is a simple, interactive **command-line Python application** that recommends suitable hair-care ingredients and product brands based on the user’s hair conditions. The tool categorizes common hair concerns—such as dry, oily, frizzy, dandruff-prone, or damaged hair—and provides a curated list of:
+This project is a simple, interactive **command-line Python application** that recommends suitable hair-care ingredients and product brands based on the user’s hair conditions.  The tool categorizes common hair concerns—such as dry, oily, frizzy, dandruff-prone, or damaged hair—and provides a curated list of:
 
 * Ingredients that are **beneficial**
 * Ingredients that **should be avoided**
