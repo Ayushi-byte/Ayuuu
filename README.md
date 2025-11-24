@@ -120,5 +120,41 @@ Expected behavior:
 * Notifies:
   `No data available for condition(s): curly`
 
+Code
+<img width="1920" height="1200" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/eb9cf2d4-ca1a-4f82-8ea2-ec67cef4d9d3" />
+<img width="1920" height="1200" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/9604dc0f-da40-47f1-98ee-8684a6b9f83f" />
+<img width="1920" height="1200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/9b26b15d-ecdd-482c-9401-9e02260295ec" />
+
+Output
+
+<img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/4e3c36a1-f9e6-4f98-b9fd-5438775d1102" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 
 
